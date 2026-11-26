@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PersonalizatorTekstu</string>
+
+    <string-array name="texts">
+        <item>Witaj w aplikacji!</item>
+        <item>Personalizuj swój ekran</item>
+        <item>Programowanie mobilne w Javie</item>
+        <item>Android Studio – tryb dzienny i nocny</item>
+    </string-array>
+</resources>
